@@ -1,5 +1,5 @@
 # Projet 1 : Chat en Temps Réel avec Sockets en C
-
+![Illustration du Chat en Temps Réel](chat_online_image.png)
 Le projet consiste à développer une application de chat en temps réel en utilisant les sockets
 réseaux en langage C. L'application permettra à plusieurs utilisateurs de se connecter à un serveur central
 et d'échanger des messages en temps réel.
