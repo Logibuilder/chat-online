@@ -1,0 +1,52 @@
+[asa] hello
+[khalid] hello
+[khalid] ok
+[asa] ok
+[assadick] (127.0.0.1:50726) [Channel: the king] bonjour 
+[assadick] (127.0.0.1:50726) [Channel: the king] hello 
+[assadick] (127.0.0.1:50726) [Channel: the king] ok 
+[ahmat] (127.0.0.1:50736) [Channel: dhd] hzllo 
+[ahmat] (127.0.0.1:50736) [Channel: dhd] ok 
+[assadick] (127.0.0.1:50726) [Channel: the king] ok 
+[annadif] (127.0.0.1:50746) [Channel: the king] salut le king 
+[assadick] (127.0.0.1:56405) [Channel: the king] jgnnq 
+[assadick] (127.0.0.1:56405) [Channel: the king] jgnnq 
+[assadick] (127.0.0.1:56405) [Channel: the king] jgnnq 
+[assadick] (127.0.0.1:56405) [Channel: the king] jgnnq 
+[assadick] (127.0.0.1:56405) [Channel: the king] jgnnq 
+[assadick] (127.0.0.1:56405) [Channel: the king] jgnnq 
+[assadick] (127.0.0.1:56405) [Channel: the king] dqplqwt 
+[annadif] (127.0.0.1:56663) [Channel: the king] dqplqwt 
+[Ben] (127.0.0.1:56723) [Channel: The king] jgnnq 
+[Ben] (127.0.0.1:56723) [Channel: The king] dqplqwt 
+[assane] (127.0.0.1:56711) [Channel: AssadiChannel] ogt 
+[annadif] (127.0.0.1:56705) [Channel: The king] ogt 
+[annadif] (127.0.0.1:56705) [Channel: The king] jgnnq 
+[annadif] (127.0.0.1:56705) [Channel: The king] jgnnq 
+[annadif] (127.0.0.1:56705) [Channel: The king] dqpuqkt 
+[annadif] (127.0.0.1:56705) [Channel: The king] jgnnq 
+[assane] (192.168.236.167:52196) [Channel: asssssssssssss] sfdfdf 
+[assane] (192.168.236.167:52196) [Channel: asssssssssssss] fsf 
+[assane] (192.168.236.167:33098) [Channel: l3-info] bonjour
+[assane] (192.168.236.167:33098) [Channel: l3-info] fsfsssfsd
+[assane] (192.168.236.167:33098) [Channel: l3-info] sfsfs
+[assane] (192.168.236.167:33098) [Channel: l3-info] sfsf
+[yyyyy] (192.168.236.191:27324) [Channel: yousouchannel] bdbfdbf
+[yyyyy] (192.168.236.191:27324) [Channel: yousouchannel] ghtrht
+[yyyyy] (192.168.236.191:27324) [Channel: yousouchannel] hrhtrh
+[assane] (192.168.236.167:33098) [Channel: yousouchannel] dsgsdgs
+[assane] (192.168.236.167:33098) [Channel: yousouchannel] bbbbbbbbbbbbbbbb
+[assane] (192.168.236.167:33098) [Channel: l3-info] dgdgggd
+[assane] (192.168.236.167:33098) [Channel: l3-info] ffffff
+[assane] (192.168.236.167:33098) [Channel: l3-info] ddddddddddddddd
+[assane] (192.168.236.167:33098) [Channel: l3-info] ffffffffffff
+[assane] (192.168.236.167:33098) [Channel: l3-info] dffffffffffff
+[assane] (192.168.236.167:33098) [Channel: l3-info] ffffffffffff
+[assane] (192.168.236.167:33098) [Channel: l3-info] fffffffffffffff
+[assane] (192.168.236.167:33098) [Channel: l3-info] bdgdgg
+[assane] (192.168.236.167:33098) [Channel: l3-info] ccccccccccccccccccccccc
+[assane] (192.168.236.167:33098) [Channel: yousouchannel] eefef
+[assane] (192.168.236.167:33098) [Channel: yousouchannel] fsfsf
+[assane] (192.168.236.167:33098) [Channel: yousouchannel] ffffff
+[annadif] (127.0.0.1:49670) [Channel: the king] jgnnq 
+[ahmat] (127.0.0.1:49671) [Channel: the king] dqplqwt 
